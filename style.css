@@ -1,0 +1,63 @@
+* {
+  max-width: 100vw;
+  max-height: 100vh;
+  /* padding-right: 2vw;
+    padding-left: 2vw; */
+  /* overflow-x: hidden;
+    color: blue;
+    font-size: 5648%; */
+  /* background-image: url('lakeside-pink-sky-sunset-minimal-art-gradient-background-4480x2520-4584.png');
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+/* * {
+  padding: 0;
+} */
+h1 {
+  text-align: center;
+  /* background-image: url("lakeside-pink-sky-sunset-minimal-art-gradient-background-4480x2520-4584.png");
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
+
+.upperhalf {
+  /* background-color: blue; */
+  background-image: url("images/lakeside-pink-sky-sunset-minimal-art-gradient-background-4480x2520-4584.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* .container-fluid{
+    background-image: url("lakeside-pink-sky-sunset-minimal-art-gradient-background-4480x2520-4584.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.lowerhalf {
+  /* background-color: brown; */
+  background-image: url("images/photo-1508108712903-49b7ef9b1df8.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+th {
+  background-image: url("images/dark\ blue.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+ul {
+  background-image: url("images/cyan11.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+td {
+  background-image: url("images/cyan11.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.upperhalf{
+  margin: 0%;
+}
+.lowerhalf{
+  margin: 0%;
+}

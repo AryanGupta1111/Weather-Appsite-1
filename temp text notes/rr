@@ -1,0 +1,10 @@
+                <td><span id="cloud_pct5">5</span></td>
+                <td><span id="temp5">5</span> °C</td>
+                <td><span id="feels_like5">5</span> °C</td>
+                <td><span id="humidity5">5</span> %</td>
+                <td><span id="min_temp5">5</span> °C</td>
+                <td><span id="max_temp5">5</span> °C</td>
+                <td><span id="wind_speed5">5</span> m/s</td>
+                <td><span id="wind_degrees5">5</span> °</td>
+                <td><span id="sunrise5">5</span></td>
+                <td><span id="sunset5">5</span></td>
